@@ -1,0 +1,2 @@
+# MovieRate
+Movie rating website
